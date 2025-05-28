@@ -45,7 +45,7 @@ projeto-cordel/
 
 ---
 
-## 📸 Screenshot
+## 📸 Prévia do Projeto
 
 ![Preview do Projeto](img/screenshot.png)
 
